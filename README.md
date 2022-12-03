@@ -1,29 +1,29 @@
 ### Hi, I'm Saumya Ranjan Sahoo 🙏🏻 🧑‍💻
 
 
- <a href="https://twitter.com/thecaffeinedev">
-  <img align="left" alt="Saumya Kumar Sahoo| Twitter" width="22px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/twitter.png" />
+ <a href="https://twitter.com/Saumya126082">
+  <img align="left" alt="Saumya Ranjan Sahoo| Twitter" width="22px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/twitter.png" />
  </a>
 
-<a href="https://www.linkedin.com/in/prabhat-kumar-sahu-b9a53674/">
+<a href="https://www.linkedin.com/in/Saumya Ranjan Sahoo">
   <img align="left" alt="LinkedIn" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/linkedIn.png" />
 </a>
 
-<a href="https://www.instagram.com/caffeinedev/">
+<a href="https://www.instagram.com/saumya_ranjan_sahoo/">
   <img align="left" alt="Instagram" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/instagram.png" />
 </a>
 
 
-<a href="http://iprabhat.dev/">
+<!-- <a href="http://iprabhat.dev/">
   <img align="left" alt=" Personal | Website" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/code.png" />
-</a>
+</a> -->
 
 <br/>
 
 <br/>
 
 
-A Software Engineer 💻  with interests in Python, ML, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
+A Full Stack Software Developer 💻  with interests in Python, Django, Docker, Ajax, HTML, CSS, JS, Rest API. Drop me a mail, if you want to get in touch.
 
  
 <br />
@@ -33,7 +33,7 @@ A Software Engineer 💻  with interests in Python, ML, Go,Docker, Kubernetes. D
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://www.pskitservices.com/wp-content/uploads/2019/08/html-css-javascrit.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -41,25 +41,4 @@ A Software Engineer 💻  with interests in Python, ML, Go,Docker, Kubernetes. D
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 <br />
-
-<!--
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=thecaffeinedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**TheCaffeineDev/thecaffeinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
